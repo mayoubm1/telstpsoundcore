@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/telstpsoundcore/static/css/main.0512c44b.css",
-    "main.js": "/telstpsoundcore/static/js/main.06afbe3b.js",
+    "main.js": "/telstpsoundcore/static/js/main.8eed3acd.js",
     "index.html": "/telstpsoundcore/index.html",
     "main.0512c44b.css.map": "/telstpsoundcore/static/css/main.0512c44b.css.map",
-    "main.06afbe3b.js.map": "/telstpsoundcore/static/js/main.06afbe3b.js.map"
+    "main.8eed3acd.js.map": "/telstpsoundcore/static/js/main.8eed3acd.js.map"
   },
   "entrypoints": [
     "static/css/main.0512c44b.css",
-    "static/js/main.06afbe3b.js"
+    "static/js/main.8eed3acd.js"
   ]
 }
